@@ -11,7 +11,7 @@ separate repository to be used as a go module.
 
 Import mq and this driver to your project, and you should be good to go
 
-```
+```go
 import (
   "github.com/go-mq/mq/v2"
   _ "github.com/go-mq/mq-amqp/v1"
