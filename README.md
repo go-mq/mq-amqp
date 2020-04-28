@@ -1,6 +1,6 @@
 # AMQP Driver for mq ![Go](https://github.com/go-mq/mq-amqp/workflows/Go/badge.svg)
 
-The initial driver that came with the fork of github.com/src-d/go-queue, added to a
+The initial driver that came with the fork of [github.com/src-d/go-queue](https://github.com/src-d/go-queue), added to a
 separate repository to be used as a go module.
 
 ## Installation
